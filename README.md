@@ -156,21 +156,12 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
 
 </p>
 
+<br/>
+<br/>
+
 ### 💬 ContatOs
 
-<img 
-    align="left" 
-    alt="E-MAIL:" 
-    title="dev.software001@gmail.com"
-    width="30px" 
-    style="padding-right: 10px;" 
-    img src="http://www.w3.org/2000/svg" 
-/>
-<img 
-    align="left" 
-    alt="LINKEDIN" 
-    title="https://www.linkedin.com/in/cleythondossantos/"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
+<div>
+ <a href = "mailto:dev.software001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleythondossantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>    
