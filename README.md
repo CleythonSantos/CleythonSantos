@@ -156,10 +156,9 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
 
 </p>
 
-<br/>
-<br/>
+---
 
-### 💬 ContatOs
+### 💬 Contatos
 
 <div>
  <a href = "mailto:dev.software001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
