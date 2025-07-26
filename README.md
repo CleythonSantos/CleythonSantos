@@ -153,7 +153,6 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleythonSantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
 ---
