@@ -62,6 +62,14 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
 />
 <img 
     align="left" 
+    alt="BOOTSTRAP" 
+    title="BOOTSTRAP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -75,14 +83,6 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
@@ -102,11 +102,27 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
     alt="VSCODE" 
     title="VSCODE"
     width="30px" 
     style="padding-right: 10px;" 
     img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="FIGMA" 
+    title="FIGMA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 <img 
     align="left" 
@@ -139,3 +155,22 @@ Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimora
   />
 
 </p>
+
+### 💬 ContatOs
+
+<img 
+    align="left" 
+    alt="E-MAIL:" 
+    title="dev.software001@gmail.com"
+    width="30px" 
+    style="padding-right: 10px;" 
+    img src="http://www.w3.org/2000/svg" 
+/>
+<img 
+    align="left" 
+    alt="LINKEDIN" 
+    title="https://www.linkedin.com/in/cleythondossantos/"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+/>
