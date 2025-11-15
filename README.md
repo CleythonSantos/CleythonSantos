@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Cleython dos Santos, tenho 17 anos e sou natural de Pernambuco.
+Me chamo Cleython dos Santos, tenho 18 anos e sou natural de Pernambuco.
 Atualmente, estou concluindo o 3º ano do Ensino Médio na ETE Porto Digital, no curso técnico em Análise e Desenvolvimento de Sistemas.
 Tenho foco em desenvolvimento Front-End, com grande interesse por interfaces modernas, acessíveis e funcionais.
 Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimorar minhas habilidades e contribuir com projetos relevantes.
